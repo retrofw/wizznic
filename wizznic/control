@@ -1,0 +1,10 @@
+Package: wizznic
+Version: 
+Description: RetroFW port of Wizznic
+Section: games
+Priority: optional
+Maintainer: pingflood
+Architecture: mipsel
+Homepage: https://github.com/retrofw/wizznic
+Depends: retrofw(>=2.0)
+Source: https://github.com/retrofw/wizznic

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Wizznic
+Comment=Wizznic port
+Exec=wizznic.dge
+Icon=wizznic
+Categories=games;

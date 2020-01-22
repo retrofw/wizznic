@@ -1,0 +1,4 @@
+title=Wizznic
+description=Wizznic port
+exec=/home/retrofw/games/wizznic/wizznic.elf
+clock=600
